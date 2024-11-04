@@ -13,7 +13,7 @@ The toolchain provided in this organization is based on an implementation called
 
 ## :page_facing_up: Publications
 - [A. Ricci et al.] _Web of Digital Twins_ -- [link to the article](https://dl.acm.org/doi/10.1145/3507909)
-- [Giulianelli et al.] _Engineering Interoperable Ecosystems of Digital Twins: A Web-based Approach_ -- to be published :hourglass_flowing_sand:
+- [Giulianelli et al.] _Engineering Interoperable Ecosystems of Digital Twins: A Web-based Approach_ -- [link to the article](https://maestro.acm.org/trk/clickp?ref=z16l2snue3_2-316ea_0x33ae25x0437&doi=3652620.3688263)
 
 ## :hammer: Toolchain provided in this organization
 - `wodt-platform`: a Kotlin-based platform that enables the creation of a contextualized view of a portion of reality offering services on top of WoDT ecosystems to be exploited at the application layer. 
