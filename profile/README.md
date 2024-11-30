@@ -20,3 +20,4 @@ The toolchain provided in this organization is based on an implementation called
 - `wodt-vocabulary`: a OWL-based vocabulary that supports the descriptions of Digital Twins via [_WoT Thing Descriptions_](https://www.w3.org/TR/wot-thing-description/).
 - `wldt-wodt-adapter`: a simple Java-based library that extends the [_WLDT Framework_](https://github.com/wldt) for the creation of WoDT Digital Twins in a WoDT ecosystem.
 - `ditto-wodt-adapter`: a simple middleware prototype that exposes [Eclipse Ditto](https://eclipse.dev/ditto/) Digital Twins as WoDT Digital Twins.
+- `azuredt-wodt-adapter`: A middleware for [Azure Digital Twins](https://learn.microsoft.com/en-us/azure/digital-twins/overview) to be able to expose ADT DTs as WoDT Digital Twins.
